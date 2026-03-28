@@ -12,4 +12,4 @@ A multi-step agentic pipeline that ingests unstructured clinical notes, extracts
 
 **Key Tech:** LangGraph, parallel extraction agents, FHIR R4, human-in-the-loop checkpoints
 
-[Full README](https://github.com/kavoshmonfared/agentic-intake-pipeline)
+[Full README](https://github.com/kavoshm/clinical-intake-pipeline)

@@ -12,4 +12,4 @@ A production-grade evaluation framework for scoring LLM-generated clinical outpu
 
 **Key Tech:** G-Eval, GPT-4-as-judge, probability-weighted scoring, baseline management, CI/CD integration
 
-[Full README](https://github.com/kavoshmonfared/clinical-eval-framework)
+[Full README](https://github.com/kavoshm/clinical-eval-framework)

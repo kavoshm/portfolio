@@ -13,4 +13,4 @@ An LLM-powered classification system that categorizes unstructured clinical note
 
 **Key Tech:** Few-shot prompting, chain-of-thought reasoning, structured JSON output, GPT-4 (temp=0)
 
-[Full README](https://github.com/kavoshmonfared/clinical-note-classifier)
+[Full README](https://github.com/kavoshm/clinical-note-classifier)

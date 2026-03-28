@@ -39,11 +39,11 @@ Each phase builds on the previous. Certificates were completed alongside the pro
 
 | # | Project | What It Does | Key Tech | README |
 |---|---------|-------------|----------|--------|
-| 1 | [Clinical Note Classifier](https://github.com/kavoshmonfared/clinical-note-classifier) | LLM-powered triage classification with CoT reasoning | Few-shot, structured output | [README](readmes/project1_clinical_note_classifier.md) |
-| 2 | [Mental Health RAG](https://github.com/kavoshmonfared/mental-health-rag) | RAG system for clinical treatment protocols | ChromaDB, MMR, FastAPI | [README](readmes/project2_mental_health_rag.md) |
-| 3 | [Clinical Eval Framework](https://github.com/kavoshmonfared/clinical-eval-framework) | Automated quality scoring with 4 clinical rubrics | G-Eval, GPT-4-as-judge | [README](readmes/project3_clinical_eval_framework.md) |
-| 4 | [Agentic Intake Pipeline](https://github.com/kavoshmonfared/agentic-intake-pipeline) | Multi-agent extraction to FHIR R4 resources | LangGraph, FHIR R4 | [README](readmes/project4_agentic_intake_pipeline.md) |
-| 5 | [Clinical AI CI/CD](https://github.com/kavoshmonfared/clinical-ai-cicd) | CI/CD with automated eval and regression blocking | GitHub Actions, eval automation | [README](readmes/project5_clinical_ai_cicd.md) |
+| 1 | [Clinical Note Classifier](https://github.com/kavoshm/clinical-note-classifier) | LLM-powered triage classification with CoT reasoning | Few-shot, structured output | [README](readmes/project1_clinical_note_classifier.md) |
+| 2 | [Mental Health RAG](https://github.com/kavoshm/mental-health-rag) | RAG system for clinical treatment protocols | ChromaDB, MMR, FastAPI | [README](readmes/project2_mental_health_rag.md) |
+| 3 | [Clinical Eval Framework](https://github.com/kavoshm/clinical-eval-framework) | Automated quality scoring with 4 clinical rubrics | G-Eval, GPT-4-as-judge | [README](readmes/project3_clinical_eval_framework.md) |
+| 4 | [Agentic Intake Pipeline](https://github.com/kavoshm/clinical-intake-pipeline) | Multi-agent extraction to FHIR R4 resources | LangGraph, FHIR R4 | [README](readmes/project4_agentic_intake_pipeline.md) |
+| 5 | [Clinical AI CI/CD](https://github.com/kavoshm/clinical-ai-cicd) | CI/CD with automated eval and regression blocking | GitHub Actions, eval automation | [README](readmes/project5_clinical_ai_cicd.md) |
 
 ### Blog Post
 
@@ -157,5 +157,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Author
 
 **Kavosh Monfared** -- Senior Software Engineer, AI Automation & Healthcare Systems
-- GitHub: [@kavoshmonfared](https://github.com/kavoshmonfared)
-- LinkedIn: [kavoshmonfared](https://linkedin.com/in/kavoshmonfared)
+- GitHub: [@kavoshm](https://github.com/kavoshm)
+- LinkedIn: [Kavosh Monfared](https://www.linkedin.com/in/kavosh-m-5479063ba/)

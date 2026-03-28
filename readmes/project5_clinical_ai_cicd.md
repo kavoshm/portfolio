@@ -12,4 +12,4 @@ A CI/CD pipeline purpose-built for LLM-powered clinical applications. Treats pro
 
 **Key Tech:** GitHub Actions, tiered evaluation, prompt diff analysis, baseline management, PR comment reports
 
-[Full README](https://github.com/kavoshmonfared/clinical-ai-cicd)
+[Full README](https://github.com/kavoshm/clinical-ai-cicd)

@@ -13,4 +13,4 @@ A Retrieval-Augmented Generation system for querying mental health treatment pro
 
 **Key Tech:** ChromaDB, MMR retrieval, FastAPI, 500-token chunks with 100-token overlap
 
-[Full README](https://github.com/kavoshmonfared/mental-health-rag)
+[Full README](https://github.com/kavoshm/mental-health-rag)

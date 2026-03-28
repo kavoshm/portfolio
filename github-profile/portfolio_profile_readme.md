@@ -31,11 +31,11 @@ give teams the same confidence in AI changes that they have in code changes.
 
 | Project | What It Does | Key Tech |
 |---------|-------------|----------|
-| [Clinical Eval Framework](https://github.com/kavoshmonfared/clinical-eval-framework) | Automated quality scoring for LLM clinical outputs with 4 rubrics and regression detection | G-Eval, GPT-4-as-judge, baseline management |
-| [Agentic Intake Pipeline](https://github.com/kavoshmonfared/agentic-intake-pipeline) | Multi-agent extraction from clinical notes to FHIR R4 resources with human-in-the-loop | LangGraph, FHIR R4, function calling |
-| [Mental Health RAG](https://github.com/kavoshmonfared/mental-health-rag) | RAG system for querying clinical treatment protocols with citation-backed answers | ChromaDB, MMR retrieval, FastAPI |
-| [Clinical Note Classifier](https://github.com/kavoshmonfared/clinical-note-classifier) | LLM-powered triage classification with chain-of-thought reasoning | Few-shot prompting, structured output |
-| [Clinical AI CI/CD](https://github.com/kavoshmonfared/clinical-ai-cicd) | CI/CD pipeline for LLM apps with automated evaluation and PR-level quality gates | GitHub Actions, eval automation |
+| [Clinical Eval Framework](https://github.com/kavoshm/clinical-eval-framework) | Automated quality scoring for LLM clinical outputs with 4 rubrics and regression detection | G-Eval, GPT-4-as-judge, baseline management |
+| [Agentic Intake Pipeline](https://github.com/kavoshm/clinical-intake-pipeline) | Multi-agent extraction from clinical notes to FHIR R4 resources with human-in-the-loop | LangGraph, FHIR R4, function calling |
+| [Mental Health RAG](https://github.com/kavoshm/mental-health-rag) | RAG system for querying clinical treatment protocols with citation-backed answers | ChromaDB, MMR retrieval, FastAPI |
+| [Clinical Note Classifier](https://github.com/kavoshm/clinical-note-classifier) | LLM-powered triage classification with chain-of-thought reasoning | Few-shot prompting, structured output |
+| [Clinical AI CI/CD](https://github.com/kavoshm/clinical-ai-cicd) | CI/CD pipeline for LLM apps with automated evaluation and PR-level quality gates | GitHub Actions, eval automation |
 
 ---
 
@@ -65,6 +65,6 @@ integrated into the development workflow -- not a manual afterthought.
 
 ### Get in Touch
 
-- **LinkedIn:** [kavoshmonfared](https://linkedin.com/in/kavoshmonfared)
-- **Email:** kavosh.monfared@gmail.com
+- **LinkedIn:** [Kavosh Monfared](https://www.linkedin.com/in/kavosh-m-5479063ba/)
+- **Email:** monfaredkavosh@gmail.com
 - **Location:** Tehran, Iran (available for relocation)

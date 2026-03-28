@@ -117,8 +117,8 @@ review gates.
 ### Installation
 
 ```bash
-git clone https://github.com/kavoshmonfared/agentic-intake-pipeline.git
-cd agentic-intake-pipeline
+git clone https://github.com/kavoshm/clinical-intake-pipeline.git
+cd clinical-intake-pipeline
 pip install -r requirements.txt
 cp .env.example .env  # Add OPENAI_API_KEY and FHIR_SERVER_URL
 ```
@@ -344,7 +344,7 @@ The pipeline implements a checkpoint-based review workflow:
 ## Project Structure
 
 ```
-agentic-intake-pipeline/
+clinical-intake-pipeline/
 ├── src/
 │   ├── __init__.py
 │   ├── pipeline.py              # Main pipeline orchestration (LangGraph)
@@ -494,5 +494,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Author
 
 **Kavosh Monfared** -- Senior Software Engineer, AI Automation & Healthcare Systems
-- GitHub: [@kavoshmonfared](https://github.com/kavoshmonfared)
-- LinkedIn: [kavoshmonfared](https://linkedin.com/in/kavoshmonfared)
+- GitHub: [@kavoshm](https://github.com/kavoshm)
+- LinkedIn: [Kavosh Monfared](https://www.linkedin.com/in/kavosh-m-5479063ba/)

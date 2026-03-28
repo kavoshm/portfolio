@@ -18,7 +18,7 @@ One paragraph: what it does, what problem it solves, why it exists. A reader sho
 
 ## Quick Start
 ```bash
-git clone https://github.com/kavoshmonfared/project-name.git
+git clone https://github.com/kavoshm/project-name.git
 cd project-name && pip install -r requirements.txt
 ```
 
@@ -43,5 +43,5 @@ MIT License. See [LICENSE](LICENSE).
 
 ## Author
 **Kavosh Monfared** -- Senior Software Engineer, AI Automation & Healthcare Systems
-- GitHub: [@kavoshmonfared](https://github.com/kavoshmonfared)
-- LinkedIn: [kavoshmonfared](https://linkedin.com/in/kavoshmonfared)
+- GitHub: [@kavoshm](https://github.com/kavoshm)
+- LinkedIn: [Kavosh Monfared](https://www.linkedin.com/in/kavosh-m-5479063ba/)

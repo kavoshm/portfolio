@@ -36,7 +36,7 @@ how to install it, how to run it. AI projects need more:
 | `examples/project3_readme.md` | Clinical Evaluation Framework -- flagship project |
 | `examples/project4_readme.md` | Agentic Intake Pipeline -- multi-step LLM chain |
 | `examples/project5_readme.md` | CI/CD for AI Pipeline -- LLMOps focus |
-| `portfolio_profile_readme.md` | GitHub profile README (github.com/kavoshmonfared) |
+| `portfolio_profile_readme.md` | GitHub profile README (github.com/kavoshm) |
 
 ## README Writing Principles
 

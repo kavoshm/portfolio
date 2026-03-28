@@ -261,7 +261,7 @@ No regressions detected. Safe to merge.
 
 ```bash
 # Clone the repository
-git clone https://github.com/kavoshmonfared/clinical-ai-cicd.git
+git clone https://github.com/kavoshm/clinical-ai-cicd.git
 cd clinical-ai-cicd
 
 # Install dependencies
@@ -487,5 +487,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Author
 
 **Kavosh Monfared** -- Senior Software Engineer, AI Automation & Healthcare Systems
-- GitHub: [@kavoshmonfared](https://github.com/kavoshmonfared)
-- LinkedIn: [kavoshmonfared](https://linkedin.com/in/kavoshmonfared)
+- GitHub: [@kavoshm](https://github.com/kavoshm)
+- LinkedIn: [Kavosh Monfared](https://www.linkedin.com/in/kavosh-m-5479063ba/)

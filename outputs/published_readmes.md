@@ -4,12 +4,12 @@
 
 | README | Target Repo | Status |
 |--------|------------|--------|
-| Project 1: Clinical Note Classifier | github.com/kavoshmonfared/clinical-note-classifier | Ready |
-| Project 2: Mental Health RAG | github.com/kavoshmonfared/mental-health-rag | Ready |
-| Project 3: Clinical Eval Framework | github.com/kavoshmonfared/clinical-eval-framework | Ready |
-| Project 4: Agentic Intake Pipeline | github.com/kavoshmonfared/agentic-intake-pipeline | Ready |
-| Project 5: Clinical AI CI/CD | github.com/kavoshmonfared/clinical-ai-cicd | Ready |
-| GitHub Profile README | github.com/kavoshmonfared | Ready |
+| Project 1: Clinical Note Classifier | github.com/kavoshm/clinical-note-classifier | Ready |
+| Project 2: Mental Health RAG | github.com/kavoshm/mental-health-rag | Ready |
+| Project 3: Clinical Eval Framework | github.com/kavoshm/clinical-eval-framework | Ready |
+| Project 4: Agentic Intake Pipeline | github.com/kavoshm/clinical-intake-pipeline | Ready |
+| Project 5: Clinical AI CI/CD | github.com/kavoshm/clinical-ai-cicd | Ready |
+| GitHub Profile README | github.com/kavoshm | Ready |
 | README Template | Reusable for future projects | Complete |
 
 ## Deployment Notes

@@ -150,7 +150,7 @@ Is the output written in a style and tone appropriate for clinical use? Correct 
 ### Installation
 
 ```bash
-git clone https://github.com/kavoshmonfared/clinical-eval-framework.git
+git clone https://github.com/kavoshm/clinical-eval-framework.git
 cd clinical-eval-framework
 pip install -r requirements.txt
 cp .env.example .env  # Add your OPENAI_API_KEY
@@ -565,5 +565,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Author
 
 **Kavosh Monfared** -- Senior Software Engineer, AI Automation & Healthcare Systems
-- GitHub: [@kavoshmonfared](https://github.com/kavoshmonfared)
-- LinkedIn: [kavoshmonfared](https://linkedin.com/in/kavoshmonfared)
+- GitHub: [@kavoshm](https://github.com/kavoshm)
+- LinkedIn: [Kavosh Monfared](https://www.linkedin.com/in/kavosh-m-5479063ba/)

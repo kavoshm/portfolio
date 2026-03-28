@@ -74,4 +74,4 @@ Evaluation is not glamorous work. It does not demo well. Nobody posts "I built a
 
 ---
 
-*Kavosh Monfared is a Senior Software Engineer specializing in AI automation and healthcare systems at AIMedic. He builds evaluation frameworks, agentic pipelines, and LLMOps infrastructure for clinical AI applications. Find him on [GitHub](https://github.com/kavoshmonfared) and [LinkedIn](https://linkedin.com/in/kavoshmonfared).*
+*Kavosh Monfared is a Senior Software Engineer specializing in AI automation and healthcare systems at AIMedic. He builds evaluation frameworks, agentic pipelines, and LLMOps infrastructure for clinical AI applications. Find him on [GitHub](https://github.com/kavoshm) and [LinkedIn](https://www.linkedin.com/in/kavosh-m-5479063ba/).*
